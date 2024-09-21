@@ -1,6 +1,6 @@
 local InputService = cloneref(game:GetService('UserInputService'));
 local TextService = cloneref(game:GetService('TextService'));
-local CoreGui = clonref(game:GetService('CoreGui'));
+local CoreGui = cloneref(game:GetService('CoreGui'));
 local Teams = cloneref(game:GetService('Teams'));
 local Players = cloneref(game:GetService('Players'));
 local RunService = cloneref(game:GetService('RunService'));
