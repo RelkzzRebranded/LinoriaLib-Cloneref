@@ -20,8 +20,8 @@ ScreenGui.Parent = CoreGui;
 local Toggles = {};
 local Options = {};
 
-getgenv().Toggles = Toggles;
-getgenv().Options = Options;
+-- getgenv().Toggles = Toggles;
+-- getgenv().Options = Options;
 
 local Library = {
     Registry = {};
